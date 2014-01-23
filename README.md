@@ -1,4 +1,10 @@
 Ctec_2121_GIT
 =============
 
-Git
+
+
+#include<stdio.h> 
+main()
+{    
+   printf("Hello World\n");
+}
